@@ -1,6 +1,8 @@
 body{
     margin: 0px;
     font-size: 0px;
+    font-family: "Agency FB";
+    background-color: lightgray;
 }
 
 main{
@@ -17,7 +19,6 @@ h1{
     padding: 0px;
     margin: 0px;
     overflow: hidden;
-
 
 }
 .navbar a{
@@ -74,7 +75,6 @@ h1{
 
     box-shadow: 0 4px 10px #028C6A;
     background-color: #D1EDE1;
-    
 }
 .DriverList{
     font-family: Alef;
@@ -83,7 +83,6 @@ h1{
     margin: 0px;
     display: block;
     float:left;
- 
 }
 .TeamList{
     font-family: Alef;
@@ -92,14 +91,12 @@ h1{
     margin: 0px;
     display: block;
     float:right;
-    
 
 }
 .TeamList li:hover{
 
     box-shadow: 0 4px 10px #003E19;
     background-color: #7BC5AE;
-    
 }
  a {
      text-decoration: none;
@@ -109,17 +106,21 @@ h1{
  h3{
      font-family: "Agency FB";
      margin-left: 10px;
-     font-size: 40px;
+
  }
  h4{
      font-family: "Agency FB";
      margin-left: 10px;
-    
  }
 h2{
     font-family: "Agency FB";
     text-weight: bold;
-   
+
+}
+ .Text{
+     margin-right: 50px;
+
+
 }
  .Text{
      margin-right: 50px;
@@ -127,12 +128,12 @@ h2{
      margin-left: 10px;
  }
  .Picture{
-float: right;
+     float: right;
      margin-right: 10px;
  }
 .Body2{
     margin:30px;
-   
+    font-size: 20px;
 }
 .Start{
     position: absolute;
