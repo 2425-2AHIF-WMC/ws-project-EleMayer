@@ -17,44 +17,48 @@
 }
 .navbar a:hover{
     background-color: #023459;
+    color: black;
+    font-family: "Alef";
+    font-size: 40px;
 }
 .navbar li{
     float: left;
 }
 
 .DriverList{
-    font-family: "Forte";
+    font-family: "Alef";
     list-style-type: numbers;
-    color: black;
+    color: #5e2028;
     padding: 0px;
     margin: 0px;
     display: block;
     float:left;
-    background-color: #002C2F;
 }
 .Headar{
-    font-family: Alef;
+    font-family: "Alef";
     margin: 10px;
 
 }
 .Headar:hover{
     font-size: large;
     margin: 10px;
+
 }
 a {
     text-decoration: none;
-    color: black;
+    color: #5e2028;
     padding: 10px;
 }
 a:hover {
     font-size: 20px;
     margin: -10px;
-    color: #023459;
+    box-shadow: 0 4px 10px #028C6A;
+    background-color: #D1EDE1;
 }
 .active{
     margin: -1px;
     color: lightgray;
-    background-color: black;
+    background-color: #5e2028;
     text-decoration: none;
     padding: 5px 10px;
     border-radius: 25px;
@@ -93,4 +97,5 @@ body{
 }
 .Teamss{
     color:  #023459;
+
 }
