@@ -17,10 +17,14 @@
 }
 .navbar a:hover{
     background-color: #023459;
+    color: black;
+    font-family: "Alef";
+    font-size: 40px;
 }
 .navbar li{
     float: left;
 }
+
 
 .TeamList{
     font-family: "Forte";
