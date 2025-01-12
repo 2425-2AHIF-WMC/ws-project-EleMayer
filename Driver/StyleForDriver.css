@@ -103,7 +103,7 @@ body{
     margin: 0px;
     display: block;
     float:left;
-    background-color: #77BCA9;
+    background-color: #002C2F;
 }
 .Headar{
     font-family: Alef;
@@ -122,13 +122,12 @@ a {
 a:hover {
     font-size: 20px;
     margin: -10px;
-    color: #F78E1E;
-
+    color: #023459;
 }
 .active{
     margin: -1px;
-    color: #FFEC73;
-    background-color: #015077;
+    color: lightgray;
+    background-color: black;
     text-decoration: none;
     padding: 5px 10px;
     border-radius: 25px;
@@ -166,5 +165,5 @@ body{
     font-size: 20px;
 }
 .Teamss{
-    color: orange;
+    color:  #023459;
 }
