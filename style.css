@@ -3,6 +3,7 @@ body{
     font-size: 50px;
     font-family: "Agency FB";
     background-color: lightgray;
+
 }
 
 main{
@@ -16,6 +17,7 @@ h1{
 .navbar ul{
     list-style-type: none;
     background-color: #002C2F;
+    color: black;
     padding: 0px;
     margin: 0px;
     overflow: hidden;
@@ -25,12 +27,12 @@ h1{
     color: #B2A59F;
     text-decoration: none;
     padding: 30px;
-    
     display: block;
     text-align: center;
 }
 .navbar a:hover{
     background-color: #023459;
+    color: black;
 }
 /*.navbar a:hover{
     animation-name: rainbow;
@@ -117,11 +119,7 @@ h2{
     text-weight: bold;
 
 }
- .Text{
-     margin-right: 50px;
 
-
-}
  .Text{
      margin-right: 50px;
     
@@ -139,3 +137,5 @@ h2{
     position: absolute;
     right: 20px;
 }
+
+
