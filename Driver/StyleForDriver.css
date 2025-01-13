@@ -57,7 +57,7 @@ a:hover {
 }
 .active{
     margin: -1px;
-    color: lightgray;
+    color: black;
     background-color: #7BC5AE;;
     text-decoration: none;
     padding: 5px 10px;
