@@ -2,24 +2,25 @@
 .navbar ul{
     list-style-type: none;
     background-color: #002C2F;
+    color: black;
     padding: 0px;
     margin: 0px;
     overflow: hidden;
-
 }
 .navbar a{
     color: #B2A59F;
     text-decoration: none;
+    font-family: "Agency FB";
     padding: 30px;
-    font-size: 30px;
+    font-size: 50px;
     display: block;
     text-align: center;
 }
 .navbar a:hover{
     background-color: #023459;
     color: black;
-    font-family: "Alef";
-    font-size: 40px;
+    font-family: "Agency FB";
+    font-size: 50px;
 }
 .navbar li{
     float: left;
@@ -50,7 +51,7 @@ a:hover {
 .active{
     margin: -1px;
     color: #003E19;
-    background-color: #7BC5AE;;
+    background-color: #7BC5AE;
     text-decoration: none;
     padding: 5px 10px;
     border-radius: 25px;
