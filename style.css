@@ -5,7 +5,11 @@ body{
     background-color: lightgray;
 
 }
-
+.Picture1{
+    float: center;
+    width: 950px;
+    height: 550px;
+}
 main{
     margin-left: 20px;
     margin-right: 20px;
@@ -137,9 +141,9 @@ h2{
     position: absolute;
     right: 20px;
 }
+
+
 .image{
     width: 200px;
     height: 200px;
 }
-
-
